@@ -1,0 +1,33 @@
+
+#contact-form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-control {
+    border-radius: 25px;
+}
+
+.btn-dark {
+    border-radius: 25px;
+}
+
+.image {
+    width: 200px;
+}
+
+
+h2 {
+    text-align: center;
+}
+
+.banner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+}
